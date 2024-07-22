@@ -8,20 +8,8 @@ nav_order: 2022.05181500
 
 # Podcasts: A New Way to Mobilize Your Knowledge
 
-Learn how you can create publication-quality figures using ggplot2. We will cover plotting options for one- and two-dimensional continuous and categorical data and explore options for customizing your figure’s appearance. 
+Podcasts can take academic research out of the ivory tower and into the public. Learn the basics of podcasting at this workshop from podcaster and SCDS Coordinator Veronica Litt and Digital Media Specialist Elaine Westenhoefer. 
 
-## Workshop Preparation 
+This intensive workshop is for academics and researchers who are interested in creating a podcast about their work. We’ll discuss how to plan a show, best practices for recording crisp, professional audio, and give participants hands-on experience with editing on Audacity, a free and open source audio editing software. We’ll also discuss how to brand your show, go through the basics of hosting and distribution, then discuss how to promote your podcast and build an audience. 
 
-Access the workshop files here:
-- [workshop-file-ggplot2.R](workshop-file-ggplot2.R)
-
-An installation of [R](https://www.r-project.org/) and [RStudio](https://posit.co/downloads/) will also be needed.
-
-<!-- ## Facilitator Bio -->
-
-<!-- Missing bio -->
-
-## Workshop Recording
-
-<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/66dbdd5f-1e35-4675-bc09-a5e7d4e7f0e1/public"></iframe>
-[View original here.](https://echo360.ca/media/66dbdd5f-1e35-4675-bc09-a5e7d4e7f0e1/public)
+This workshop will not be recorded. You can however find another workshop module on Podcasting here: <https://learn.scds.ca/podcasting/>

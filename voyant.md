@@ -8,20 +8,10 @@ nav_order: 2022.01261000
 
 # Visualizing Texts with Voyant Tools
 
-Learn how you can create publication-quality figures using ggplot2. We will cover plotting options for one- and two-dimensional continuous and categorical data and explore options for customizing your figure’s appearance. 
+See texts in exciting new ways at this virtual workshop on Voyant Tools. Devon Mordell (Educational Developer, MacPherson Institute) will show participants how to transform text documents into data for visualization, helping Humanities scholars see texts from new perspectives. If you are interested in Digital Humanities, this workshop is a great place to start. This session will be recorded and made available openly.
 
-## Workshop Preparation 
+**The recording and materials for this workshop are available here**: <https://learn.scds.ca/intro-voyant/>
 
-Access the workshop files here:
-- [workshop-file-ggplot2.R](workshop-file-ggplot2.R)
+## Facilitator Bio
 
-An installation of [R](https://www.r-project.org/) and [RStudio](https://posit.co/downloads/) will also be needed.
-
-<!-- ## Facilitator Bio -->
-
-<!-- Missing bio -->
-
-## Workshop Recording
-
-<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/66dbdd5f-1e35-4675-bc09-a5e7d4e7f0e1/public"></iframe>
-[View original here.](https://echo360.ca/media/66dbdd5f-1e35-4675-bc09-a5e7d4e7f0e1/public)
+Devon Mordell draws on her experience in media art, hobbyist programming and instructional design to teach workshops for the Sherman Centre. Her areas of interest in digital scholarship include data visualization, computational analyses of texts, sonification and critical digital humanities. Her research practice explores the algorithmic culture industry and platform psychogeography.
